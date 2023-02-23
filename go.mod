@@ -41,6 +41,6 @@ require (
 	github.com/wealdtech/go-eth2-wallet-store-scratch v1.6.3
 	github.com/wealdtech/go-eth2-wallet-types/v2 v2.8.5
 	github.com/wealdtech/go-string2eth v1.1.0
-	golang.org/x/text v0.3.7
+	golang.org/x/text v0.3.8
 	google.golang.org/grpc v1.40.0
 )
